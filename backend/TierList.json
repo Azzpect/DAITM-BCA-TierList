@@ -1,0 +1,251 @@
+{
+    "TierList": [
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f0",
+            "Name": "GautamChaudhuri",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f1",
+            "Name": "NabanitaIndra",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f2",
+            "Name": "NilimaPaul",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f3",
+            "Name": "ParamitaRay",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f4",
+            "Name": "PinakshiDey",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f6",
+            "Name": "SoumyaKantiGuha",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f5",
+            "Name": "SandipDutta",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f7",
+            "Name": "SubhojitPal",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f8",
+            "Name": "TanumoyNag",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2f9",
+            "Name": "UpamaGhosh",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2fa",
+            "Name": "VivekRanjanMandal",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2e9",
+            "Name": "AditiBanerjee",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2e8",
+            "Name": "AbhisekSarkar",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2eb",
+            "Name": "AnurupaBiswas",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2ec",
+            "Name": "ArijitGupta",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2ed",
+            "Name": "AsmiBasu",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2ee",
+            "Name": "AtanuMondal",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2ef",
+            "Name": "AtreyeeDatta",
+            "__v": 0
+        },
+        {
+            "Tier": {
+                "S": 0,
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "F": 0
+            },
+            "_id": "660d991fac1cec739c92b2ea",
+            "Name": "AnupamBera",
+            "__v": 0
+        }
+    ]
+}
