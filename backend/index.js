@@ -52,7 +52,7 @@ app.post("/get-tierlist", async (req, res) => {
         let tier = null;
         let maxValue = Number.MIN_VALUE;
         for (let key in teacher.Tier) {
-            if (teacher.Tier[key] > maxValue) {
+            if (teacher.Tier[key] >= maxValue) {
                 maxValue = teacher.Tier[key];
                 tier = key;
             }
