@@ -79,12 +79,14 @@
   height: 100%;
   background-color: rgb(43, 43, 43);
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 .draggable-container {
   position: relative;
   width: 90vw;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
 }
@@ -94,4 +96,13 @@
   border-radius: 50%;
   border: 1px solid black;
   cursor: move;
+}
+@media (max-width: 600px) {
+  .container {
+    height: 90vh;
+  }
+  .draggable {
+    width: 35px;
+    height: 35px;
+  }
 }
